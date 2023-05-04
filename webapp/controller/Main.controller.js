@@ -9,7 +9,7 @@ sap.ui.define([
 
         return Controller.extend("ztest.test.controller.Main", {
             onInit: function () {
-
+                let oThat = this;
             }
         });
     });
